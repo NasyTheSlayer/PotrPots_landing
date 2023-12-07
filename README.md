@@ -1,6 +1,6 @@
 # Potr pots landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/Museum-2-landing/)
+- [DEMO LINK](nasytheslayer.github.io/PotrPots_landing/)
 
 ## General info
 Potr pots landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
@@ -20,7 +20,7 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Museum-2-landing
+$ git clone https://github.com/NasyTheSlayer/PotrPots_landing
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
